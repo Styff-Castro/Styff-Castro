@@ -3,7 +3,6 @@
 - 🌱 Actualmente estoy reforzando mis conocimientos en el testing, Python y SQL. Me encuentro sin empleo actualmente y estoy en una simulacion llamada @NoCountry
 - 💞️ Estoy dispuesto a colaborar en cualquier proyecto en el cual pueda desarrollar lo aprendido y obvio aprender y adquirir más experiencia
 - 📫 Puedes contactarme por Linkedin: https://www.linkedin.com/in/styff-castro/ 
-- 😄 Styff
 - ⚡ Me gusta el deporte en general, los videos juegos, las tecnologias y la naturaleza
 
 <!---
