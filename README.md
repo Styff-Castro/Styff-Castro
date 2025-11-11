@@ -42,6 +42,26 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ---
 
+## 🚀 Proyectos Destacados
+
+### 🧪 **NoCountry - Simulación de Proyectos** ![NoCountry Badge](https://img.shields.io/badge/NoCountry-Simulaci%C3%B3n%20Real-2A9D8F?style=for-the-badge)
+
+---
+
+#### 📱 Proyecto Appi Friends (QA Mobile)
+
+* **Alcance:** Testing funcional y UI/UX de aplicación móvil (Android/iOS).
+* **Habilidades Clave:** **Automatización** básica de flujos de prueba con **Appium** y **Python**.
+* **Gestión:** Seguimiento de defectos en **Jira** (Metodología Scrum).
+
+#### 🌐 Proyecto FIPE (QA Web y APIs)
+
+* **Alcance:** Aseguramiento de la calidad en plataforma web de inversión y consumo de **APIs**.
+* **Habilidades Clave:** Pruebas de APIs y regresión utilizando **Postman**.
+* **Impacto:** Identificación y gestión de **8 errores** de alta severidad usando **ClickUp**.
+
+---
+
 ## 🎓 Educación y Certificaciones
 
 ### Cursos Destacados (TOP 10)
