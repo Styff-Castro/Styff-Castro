@@ -39,3 +39,26 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B0099?style=for-the-badge&logo=clickup&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 🎓 Educación y Certificaciones
+
+### Cursos Destacados (TOP 10)
+* **Desarrollador Python Django** | CoderHouse (2024)
+* **Especialista en SQL** | CoderHouse (2024)
+* **Testing QA Manual** | CoderHouse (2023)
+
+### Formación Académica
+* **Contaduría Pública** | UCAB (2015-2018)
+* **Bachiller en Ciencias** | Instituto Rafael Rangel (2008)
+
+---
+
+## 🗣️ Idiomas
+
+* 🇪🇸 **Español:** Nativo
+* 🇬🇧 **Inglés:** Nivel A2 (Actualmente Estudiando)
+    * **Plataforma:** ![Open English](https://img.shields.io/badge/Open%20English-Nivel%20A2%20(En%20Curso)-59C4D3?style=for-the-badge)
+
+---
