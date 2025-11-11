@@ -60,7 +60,21 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ---
 
-## 📚 Proyectos de Curso y Certificación
+### 🗄️ **Proyectos Personales**
+
+#### 🚛 Proyecto Rueda Segura (Gestión de Flotas) [Ver Repositorio](https://github.com/Styff-Castro/Rueda-Segura)
+* **Alcance:** Sistema de gestión integral para flotas de vehículos desarrollado en MySQL.
+* **Habilidades Clave:** Diseño de bases de datos relacionales, Consultas SQL, **MySQL Workbench**.
+* **Impacto:** Permite la administración eficiente de vehículos, seguros, clientes, contratos, mantenimiento y repuestos.
+
+---
+
+## 📚 Proyectos de Curso
+
+### 🐍 Proyecto Final Python Django (CoderHouse) [Ver Repositorio](https://github.com/Styff-Castro/Castro-Styfferson-57810)
+* **Certificación:** ![Python Django](https://img.shields.io/badge/CoderHouse-Python%20Django-3776AB?style=for-the-badge&logo=python)
+* **Descripción:** Proyecto final del curso de **Desarrollador Python Django**, demostrando la capacidad para crear aplicaciones web.
+* **Habilidades Clave:** Desarrollo web con **Django** y **Python**, CRUD y autenticación.
 
 ### 💡 Proyecto Final QA Manual (CoderHouse) [Ver Documentación](https://drive.google.com/drive/folders/1TfAc47M2YPwh7SCma0U0g2l1TZKhI6vq?usp=drive_link)
 * **Certificación:** ![QA Manual](https://img.shields.io/badge/CoderHouse-QA%20Manual-000000?style=for-the-badge&logo=testing-library)
@@ -69,7 +83,7 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ### 🗄️ Proyecto Final SQL (CoderHouse) [Ver Documentación](https://docs.google.com/document/d/1B9883_B-f1S4w_0x00w0x0x0x0x0x0x0x0x0x0/edit?usp=drivesdk)
 * **Certificación:** ![SQL](https://img.shields.io/badge/CoderHouse-SQL-4479A1?style=for-the-badge&logo=mysql)
-* **Descripción:** Diseño y gestión de bases de datos relacionales, optimizando consultas SQL para apoyar la toma de decisiones estratégicas.
+* **Descripción:** Diseño y gestión de bases de datos relacionales, optimizando consultas SQL.
 * **Habilidades Clave:** Diseño de esquemas de bases de datos, consultas **SQL** avanzadas y optimización de rendimiento.
 
 ---
@@ -83,7 +97,7 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ### Otras Certificaciones
 * **Participación como Tester (QA)** | NoCountry (2024) ![NoCountry Certificado](https://img.shields.io/badge/NoCountry-Participaci%C3%B3n-2A9D8F?style=for-the-badge) [Ver Certificado](https://drive.google.com/file/d/11Xwmwd2mmWRmJVyZlCpVS6LJYfRd_GhP/view?usp=drive_link)
-* **Tester QA** | Academia IT ![Academia IT](https://img.shields.io/badge/Academia%20IT-Certificado-3A70D7?style=for-the-badge) **[ENLACE PENDIENTE]**
+* **Tester QA** | Educación IT ![Educación IT](https://img.shields.io/badge/Educaci%C3%B3n%20IT-Certificado-3A70D7?style=for-the-badge) [Ver Certificado](https://drive.google.com/file/d/1BmUjskxJgeAaxO9ZNbTBA4mtgezc1rsj/view?usp=drive_link)
 
 ### Formación Académica
 * **Contaduría Pública** | UCAB (2015-2018)
@@ -95,8 +109,6 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 * 🇪🇸 **Español:** Nativo
 * 🇬🇧 **Inglés:** Nivel A2 (Actualmente Estudiando)
-    * **Plataforma:** ![Open English](https://img.shields.io/badge/Open%20English-Nivel%20A2%20(En%20Curso)-59C4D3?style=for-the-badge) [Ver Certificado](https://drive.google.com/file/d/1RELSfRR18zVuAnPWHc3KNiAYbyQaH0Mo/view?usp=drive_link) <-- ¡Enlace Actualizado!
+    * **Plataforma:** ![Open English](https://img.shields.io/badge/Open%20English-Nivel%20A2%20(En%20Curso)-59C4D3?style=for-the-badge) [Ver Certificado](https://drive.google.com/file/d/1RELSfRR18zVuAnPWHc3KNiAYbyQaH0Mo/view?usp=drive_link)
 
 ---
-
-**NOTA:** Solo queda pendiente el enlace del certificado de **Tester QA de Academia IT** para que el documento esté 100% completo. Si lo tienes, envíamelo para la última actualización. De lo contrario, este es tu código final.
