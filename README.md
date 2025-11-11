@@ -1,18 +1,19 @@
 # Styfferson Castro Hernández
-#### QA ANALYST | QA MOBILE | SQL | PYTHON
+### 🕵️ QA ANALYST | 📱 QA MOBILE | ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Impulsando Calidad 🚀
 
 ---
 
 ## 👋 Sobre Mí
 
-[cite_start]Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funcional y no funcional (manual), pruebas de APIs (Postman) y automatización (Python, Appium) en entornos web y móviles (Android, IOS)[cite: 4]. [cite_start]Posee una sólida base en resolución de problemas, atención al cliente, gestión de defectos (Jira), metodologías ágiles (Scrum) y bases de datos (MySQL, PostgreSQL)[cite: 5]. [cite_start]Busca un rol desafiante para contribuir a la calidad de productos de alto impacto[cite: 6].
+Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funcional y no funcional (manual), pruebas de APIs (Postman) y automatización (Python, Appium) en entornos web y móviles (Android, IOS). Posee una sólida base en resolución de problemas, atención al cliente, gestión de defectos (Jira), metodologías ágiles (Scrum) y bases de datos (MySQL, PostgreSQL). Busca un rol desafiante para contribuir a la calidad de productos de alto impacto.
 
 ---
 
 ## 🔗 Contacto Rápido
-* [cite_start]**LinkedIn:** [https://www.linkedin.com/in/styff-castro/](https://www.linkedin.com/in/styff-castro/) [cite: 15]
-* [cite_start]**GitHub:** [https://github.com/Styff-Castro](https://github.com/Styff-Castro) [cite: 17]
-* [cite_start]**Mail:** scastroh7@gmail.com [cite: 11]
+
+* 👔 **LinkedIn:** [https://www.linkedin.com/in/styff-castro/](https://www.linkedin.com/in/styff-castro/)
+* 😼 **GitHub:** [https://github.com/Styff-Castro](https://github.com/Styff-Castro)
+* ✉️ **Mail:** scastroh7@gmail.com
 
 ---
 
