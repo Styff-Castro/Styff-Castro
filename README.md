@@ -17,6 +17,12 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ---
 
+## 📄 Descarga de CV
+
+[**Descargar CV (Español)**](https://drive.google.com/file/d/1hkiGjpxXa2B44ZHmXqFZRcuFgMueKp54/view?usp=drive_link) 🇪🇸 | [**Descargar CV (English)**](https://drive.google.com/file/d/1YDupF3PKTdP4Svs7C8fKkgTHpS5riS3y/view?usp=drive_link) 🇬🇧
+
+---
+
 ## 🛠️ Habilidades Técnicas
 
 ### 💻 Lenguajes de Programación y Consulta
@@ -81,7 +87,7 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 * **Descripción:** Proyecto que demuestra la aplicación de conocimientos en el diseño y ejecución de casos de prueba, y gestión de errores.
 * **Habilidades Clave:** Pruebas funcionales, elaboración de matrices de prueba y reporte de incidentes.
 
-### 🗄️ Proyecto Final SQL (CoderHouse) [Ver Documentación](https://docs.google.com/document/d/1B9883_B-f1S4w_0x00w0x0x0x0x0x0x0x0x0x0/edit?usp=drivesdk)
+### 🗄️ Proyecto Final SQL (CoderHouse) [Ver Documentación](https://docs.google.com/document/d/1B9883_B-f1S4w_0x0x0x0x0x0x0x0x0x0x0/edit?usp=drivesdk)
 * **Certificación:** ![SQL](https://img.shields.io/badge/CoderHouse-SQL-4479A1?style=for-the-badge&logo=mysql)
 * **Descripción:** Diseño y gestión de bases de datos relacionales, optimizando consultas SQL.
 * **Habilidades Clave:** Diseño de esquemas de bases de datos, consultas **SQL** avanzadas y optimización de rendimiento.
