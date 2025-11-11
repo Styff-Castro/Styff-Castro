@@ -12,7 +12,6 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 ## 🔗 Contacto Rápido
 
 * 👔 **LinkedIn:** [https://www.linkedin.com/in/styff-castro/](https://www.linkedin.com/in/styff-castro/)
-* 😼 **GitHub:** [https://github.com/Styff-Castro](https://github.com/Styff-Castro)
 * ✉️ **Mail:** scastroh7@gmail.com
 
 ---
