@@ -1,9 +1,20 @@
-- 👋 Hola me llamo: Styfferson Castro pero puedes decirme -->  @Styff-Castro
-- 👀 Estoy intersado en aprender y conseguir trabajo en el mundo IT como Tester QA, o Desarrollador en Python, Creador de Base de Datos
-- 🌱 Actualmente estoy reforzando mis conocimientos en el testing, Python y SQL. Me encuentro sin empleo actualmente y estoy en una simulacion llamada @NoCountry
-- 💞️ Estoy dispuesto a colaborar en cualquier proyecto en el cual pueda desarrollar lo aprendido y obvio aprender y adquirir más experiencia
-- 📫 Puedes contactarme por Linkedin: https://www.linkedin.com/in/styff-castro/ o por mi correo: scastroh7@gmail.com
-- ⚡ Me gusta el deporte en general, los videos juegos, las tecnologias y la naturaleza
+# Styfferson Castro Hernández
+#### QA ANALYST | QA MOBILE | SQL | PYTHON
+
+---
+
+## 👋 Sobre Mí
+
+[cite_start]Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funcional y no funcional (manual), pruebas de APIs (Postman) y automatización (Python, Appium) en entornos web y móviles (Android, IOS)[cite: 4]. [cite_start]Posee una sólida base en resolución de problemas, atención al cliente, gestión de defectos (Jira), metodologías ágiles (Scrum) y bases de datos (MySQL, PostgreSQL)[cite: 5]. [cite_start]Busca un rol desafiante para contribuir a la calidad de productos de alto impacto[cite: 6].
+
+---
+
+## 🔗 Contacto Rápido
+* [cite_start]**LinkedIn:** [https://www.linkedin.com/in/styff-castro/](https://www.linkedin.com/in/styff-castro/) [cite: 15]
+* [cite_start]**GitHub:** [https://github.com/Styff-Castro](https://github.com/Styff-Castro) [cite: 17]
+* [cite_start]**Mail:** scastroh7@gmail.com [cite: 11]
+
+---
 
 ## 🛠️ Habilidades Técnicas
 
@@ -26,7 +37,4 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B0099?style=for-the-badge&logo=clickup&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)<!---
-Styff-Castro/Styff-Castro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
