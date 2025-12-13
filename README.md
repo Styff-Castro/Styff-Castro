@@ -18,7 +18,7 @@ Profesional de Aseguramiento de la Calidad (QA) con experiencia en testing funci
 
 ## 📄 Descarga de CV
 
-[**Descargar CV (Español)**](https://drive.google.com/file/d/1b_ezQMdqv0v6YviDc2py6eW3To3KmnzG/view?usp=drive_link) 🇪🇸 | [**Descargar CV (English)**](https://drive.google.com/file/d/1NDRdmhflYANbB-rHsD8HJTCV23NM49T7/view?usp=drive_link) 🇬🇧
+[**Descargar CV (Español)**](https://drive.google.com/file/d/1b_ezQMdqv0v6YviDc2py6eW3To3KmnzG/view?usp=drive_link) 🇪🇸 | [**Descargar CV (Inglés)**](https://drive.google.com/file/d/1NDRdmhflYANbB-rHsD8HJTCV23NM49T7/view?usp=drive_link) 🇬🇧
 
 ---
 
